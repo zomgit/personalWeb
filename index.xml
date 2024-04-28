@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZOMBIZ</title>
+    <link>https://zombiz.gitee.io/</link>
+    <description>Recent content on ZOMBIZ</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2024 00:01:14 +0800</lastBuildDate>
+    <atom:link href="https://zombiz.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://zombiz.gitee.io/about/</link>
+      <pubDate>Mon, 29 Apr 2024 00:01:14 +0800</pubDate>
+      <guid>https://zombiz.gitee.io/about/</guid>
+      <description>ZOMBIZ 个人介绍 这里是一个爱玩电子产品，鼓捣代码，人菜瘾大的ZOMBIZ&#xA;技能： 后端：JAVA SQL 6年开发经验 B/S架构 云存储系统架构 前端：js vue 熟悉elementUI、miniUI及layUI 沟通能力：拉通对齐曾经是外企德科精英 其它入门级能力：PS、剪辑、Unity 爱好 游戏&#xA;主机&#xA;XBOXSeriesX 1151h PS4 719h&#xA;Switch~已退坑&#xA;STEAM总时长1833h&#xA;已退坑：彩六470h、绝地求生244h&#xA;HellDiver 136h、神界原罪2 87h、古剑奇谭3、胡闹厨房&amp;hellip;&amp;hellip;&#xA;VR index指虎、小派5kPlus、2.0基站、Pico4Pro&#xA;折腾电子产品&#xA;NAS、路由器、充电头、电视盒子刷机 个人电脑x4、显示器x2、人体工学键盘鼠标x2、显卡坞、 爬山 实际爬不动&#xA;睡大觉&#xA;目前状况 摆烂中</description>
+    </item>
+  </channel>
+</rss>
